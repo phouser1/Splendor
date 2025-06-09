@@ -1,0 +1,52 @@
+{
+"id": 87,
+"color": blue,
+"points": 0,
+"tier": 3,
+"cost": {
+"red": 3,
+"blue": 0,
+"green": 3,
+"black": 5,
+"white": 3
+}
+},
+{
+"id": 88,
+"color": blue,
+"points": 0,
+"tier": 3,
+"cost": {
+"red": 0,
+"blue": 0,
+"green": 0,
+"black": 0,
+"white": 7
+}
+},
+{
+"id": 89,
+"color": blue,
+"points": 0,
+"tier": 3,
+"cost": {
+"red": 0,
+"blue": 3,
+"green": 0,
+"black": 3,
+"white": 6
+}
+},
+{
+"id": 90,
+"color": blue,
+"points": 0,
+"tier": 3,
+"cost": {
+"red": 0,
+"blue": 3,
+"green": 0,
+"black": 0,
+"white": 7
+}
+},
